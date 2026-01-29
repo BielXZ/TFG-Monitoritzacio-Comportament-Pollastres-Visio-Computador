@@ -1,10 +1,10 @@
 # Monitorització del Comportament de Pollastres amb Visió per Computador
 
-**Treball de Fi de Grau – UAB (2025/26)**
-Autor: **Biel Ramon Polo**
-Menció: **Computació**
-Tutor: **Coen Antens**
-Contacte: bielrp23@gmail.com
+**Treball de Fi de Grau – UAB (2025/26)**  
+Autor: **Biel Ramon Polo**  
+Menció: **Computació**  
+Tutor: **Coen Antens**  
+Contacte: bielrp23@gmail.com  
 
 ---
 
