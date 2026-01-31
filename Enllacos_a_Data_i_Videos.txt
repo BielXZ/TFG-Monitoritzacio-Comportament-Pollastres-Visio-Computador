@@ -1,0 +1,7 @@
+## Enllaços a les carpetes de Data i Videos i imatges degut als límits d'arxius de github
+
+# Carpeta amb les imatges i anotacions d'entrenament i validació
+https://drive.google.com/drive/folders/18xtY-xfx1CPFrIluCbSQud7aDFaFAw0n?usp=sharing
+
+# Carpeta amb vídeos i imatges generats durant el treball
+https://drive.google.com/drive/folders/1YzoxlCCxazwR8MCpHgM7MBZPpmVzt72E?usp=sharing
